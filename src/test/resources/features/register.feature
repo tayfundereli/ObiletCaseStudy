@@ -9,8 +9,8 @@ Feature: Obilet Case Study
     And   Uyelik Pop-Up'inin acildigi gorulur
     And   Uye ol sayfasina gidilir
     And   Mail ve Password alani girilir
-      | email                   | password       |
-      | mesaci2289@aosod.com| SuperPassword1 |
+      | email                | password       |
+      | mesaci2289@aosod.com | SuperPassword1 |
     And   Uye ol butonuna tiklanir
     Then  Yeni kullanicinin basarili sekilde olusturuldugu kontrol edilir
 
